@@ -1,0 +1,1456 @@
+[INFO ] 2024-07-29 00:00:02.647 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:02.983 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:00:03.044 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:03.457 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:00:03.770 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:03.817 [TestNG-test=Chrome-1] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:00:04.278 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:06.623 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:11.629 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:11.994 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:00:12.065 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:12.505 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:00:12.867 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:12.927 [TestNG-test=Chrome-1] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:00:13.424 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:15.707 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:18.507 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:18.778 [TestNG-test=Chrome-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:00:18.787 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:19.426 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:00:19.722 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:19.768 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:00:19.857 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:19.883 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:00:20.288 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:22.611 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:25.270 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:25.532 [TestNG-test=Chrome-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:00:25.541 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:26.129 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:00:26.432 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:26.479 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:00:26.575 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:26.610 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:00:27.059 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:29.348 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:33.173 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:33.411 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:00:33.422 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:33.979 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:00:34.306 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:34.354 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:00:34.457 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:34.484 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:00:34.902 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:38.213 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:42.171 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:42.414 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:00:42.431 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:42.969 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:00:43.298 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:43.341 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:00:43.440 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:43.470 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:00:43.889 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:46.107 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:49.224 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:49.545 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:00:49.573 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:50.208 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:00:50.592 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:50.636 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:00:50.736 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:50.765 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:00:51.222 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:00:53.598 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:00:56.495 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:00:56.714 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:00:56.733 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:00:57.296 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:00:57.631 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:57.674 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:00:57.765 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:00:57.793 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:00:58.242 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:01:00.801 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:01:03.936 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:01:04.204 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:01:04.217 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:01:04.797 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:01:05.152 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:05.195 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:01:05.289 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:05.315 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:01:05.764 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:01:07.970 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:01:11.113 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:01:11.361 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:01:11.372 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:01:11.900 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:01:12.258 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:12.301 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:01:12.402 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:12.430 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:01:12.831 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:01:16.517 [TestNG-test=Chrome-1] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:01:20.270 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:01:20.633 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:20.684 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:01:21.054 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:01:21.286 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:01:21.303 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:01:21.865 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:01:25.690 [TestNG-test=Chrome-1] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:01:29.354 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:01:29.680 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:29.730 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:01:30.056 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:01:30.258 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:01:30.296 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:01:30.767 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:01:34.835 [TestNG-test=Chrome-1] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:01:40.322 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:01:42.761 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:42.833 [TestNG-test=Chrome-1] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:01:43.277 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:01:45.592 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:01:45.604 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:01:46.115 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:01:50.018 [TestNG-test=Chrome-1] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:01:55.330 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:01:57.739 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:01:57.801 [TestNG-test=Chrome-1] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:01:58.146 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:02:00.503 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:02:00.524 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:02:01.141 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:05.782 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:08.125 [TestNG-test=Chrome-1] homepage1 - you are the right place
+[INFO ] 2024-07-29 00:02:10.963 [TestNG-test=Chrome-1] LoggerLoad - user should see different data structure entries in that drop down
+[INFO ] 2024-07-29 00:02:13.402 [TestNG-test=Chrome-1] LoggerLoad - warning1:you are not logged in
+[INFO ] 2024-07-29 00:02:15.807 [TestNG-test=Chrome-1] LoggerLoad - warning2:you are not logged in
+[INFO ] 2024-07-29 00:02:18.620 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:20.864 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:02:22.381 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:02:28.565 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:02:28.903 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:02:28.945 [TestNG-test=Chrome-1] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:02:29.328 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:02:29.592 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:02:29.624 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:02:31.694 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:33.920 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:02:35.561 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:02:41.528 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:02:41.901 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:02:41.952 [TestNG-test=Chrome-1] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:02:42.321 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:02:42.607 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:02:42.622 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:02:44.710 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:46.761 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:02:48.362 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:02:49.595 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:02:49.997 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:02:50.046 [TestNG-test=Chrome-1] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:02:50.403 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:02:50.610 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:02:50.620 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:02:50.621 [TestNG-test=Chrome-1] Queuesteps - collection page
+[INFO ] 2024-07-29 00:02:51.070 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:53.145 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:02:54.596 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:02:55.817 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:02:56.176 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:02:56.218 [TestNG-test=Chrome-1] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:02:56.531 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:02:56.783 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:02:56.821 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:02:56.822 [TestNG-test=Chrome-1] Queuesteps - collection page
+[INFO ] 2024-07-29 00:02:57.508 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:02:59.734 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:01.209 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:03:04.511 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:03:04.849 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:03:04.892 [TestNG-test=Chrome-1] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:03:05.202 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:03:05.424 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:03:05.433 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:03:06.201 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:03:08.605 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:10.201 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:03:13.491 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:03:13.831 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:03:13.874 [TestNG-test=Chrome-1] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:03:14.184 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:03:14.399 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:03:14.412 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:03:14.868 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:03:17.292 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:18.717 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:03:20.281 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:03:20.639 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:03:20.686 [TestNG-test=Chrome-1] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:03:21.033 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:03:21.225 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:03:21.237 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:03:21.238 [TestNG-test=Chrome-1] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:03:21.904 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:03:24.081 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:25.717 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:03:27.268 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:03:27.664 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:03:27.706 [TestNG-test=Chrome-1] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:03:28.028 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:03:28.216 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:03:28.225 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:03:28.226 [TestNG-test=Chrome-1] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:03:28.676 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:03:30.978 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:32.498 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:03:33.478 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:03:35.676 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:43.101 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:03:43.856 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:03:44.064 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:03:44.866 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:03:47.187 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:03:54.698 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:03:55.403 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:03:55.617 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:03:58.038 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:04:00.374 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:04:07.881 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:04:08.605 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:04:08.895 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:04:09.907 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:04:12.192 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:04:19.678 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:04:20.379 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:04:20.623 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:04:23.073 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:04:25.325 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:04:32.972 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:04:33.665 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:04:33.886 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:04:36.209 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:04:38.406 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:04:46.010 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:04:46.750 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:04:47.038 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:04:49.496 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:04:51.604 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:04:57.082 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:04:57.791 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:04:57.979 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:04:58.833 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:05:01.213 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:05:06.607 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:05:07.488 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:05:07.705 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:05:08.365 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:05:10.537 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:05:18.069 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:05:18.745 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:05:18.946 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:05:21.258 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:05:23.372 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:05:31.272 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:05:31.979 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:05:32.235 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:05:33.268 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:05:35.649 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:05:43.696 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:05:44.399 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:05:44.645 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:05:45.805 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:05:48.086 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:05:55.466 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:05:56.219 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:05:56.442 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:05:57.152 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:05:59.497 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:04.863 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:07.351 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:08.754 [TestNG-test=edge-1] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:06:13.469 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:06:13.735 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:06:13.792 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:06:14.153 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:06:14.558 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:06:14.600 [TestNG-test=edge-1] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:06:14.992 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:17.196 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:18.829 [TestNG-test=edge-1] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:06:20.486 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:22.973 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:25.866 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:28.511 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:30.623 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:33.471 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:36.253 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:38.575 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:41.299 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:43.609 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:45.719 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:48.119 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:53.422 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:06:53.721 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:06:55.945 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:06:58.595 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:06:59.040 [TestNG-test=edge-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:06:59.073 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:06:59.678 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:06:59.966 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:07:00.020 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:07:00.124 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:07:00.152 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:07:00.651 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:07:02.679 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:07:05.489 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:07:05.741 [TestNG-test=edge-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:07:05.750 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:07:06.298 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:07:06.570 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:07:06.613 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:07:06.704 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:07:06.731 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:07:07.141 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:07:09.574 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:07:11.782 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:07:14.226 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:07:17.945 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:07:20.351 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:09:24.354 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:09:29.036 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:09:30.705 [main] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:09:37.122 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:09:37.449 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:09:37.499 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:09:38.402 [main] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:09:39.033 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:09:39.121 [main] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:09:40.610 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:09:43.187 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:09:44.792 [main] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:09:49.740 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:09:50.032 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:09:50.055 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:09:50.692 [main] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:09:51.060 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:09:51.108 [main] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:09:51.742 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:09:54.071 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:09:59.445 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:09:59.825 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:09:59.835 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:00.427 [main] LoggerLoad - User Enter valid Pythoncode is " x=[5,3,4]
+print(x)
+[INFO ] 2024-07-29 00:10:00.767 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:00.835 [main] LoggerLoad - [5, 3, 4]
+[INFO ] 2024-07-29 00:10:01.532 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:03.910 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:10:08.809 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:10:09.184 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:10:09.236 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:09.899 [main] LoggerLoad - User Enter valid Pythoncode is " x=[5,3,4]
+print(x)
+[INFO ] 2024-07-29 00:10:10.574 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:10.628 [main] LoggerLoad - [5, 3, 4]
+[INFO ] 2024-07-29 00:10:11.136 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:13.436 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:10:18.487 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:10:18.934 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:10:19.008 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:19.553 [main] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8,9]
+print(x)
+[INFO ] 2024-07-29 00:10:19.940 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:19.987 [main] LoggerLoad - [6, 7, 8, 9]
+[INFO ] 2024-07-29 00:10:20.437 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:22.808 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:10:28.002 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:10:28.322 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:10:28.359 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:28.826 [main] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8,9]
+print(x)
+[INFO ] 2024-07-29 00:10:29.139 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:29.193 [main] LoggerLoad - [6, 7, 8, 9]
+[INFO ] 2024-07-29 00:10:29.829 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:32.180 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:10:37.163 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:10:37.541 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:10:37.558 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:38.002 [main] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:10:38.303 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:38.349 [main] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:10:38.856 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:41.548 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:10:47.348 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:10:47.634 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:10:47.718 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:48.232 [main] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:10:48.533 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:48.583 [main] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:10:49.069 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:51.294 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:10:53.936 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:10:54.204 [main] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:10:54.229 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:10:54.836 [main] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:10:55.134 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:55.186 [main] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:10:55.272 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:10:55.302 [main] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:10:55.747 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:10:58.085 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:00.806 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:01.064 [main] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:11:01.074 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:02.033 [main] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:11:02.371 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:02.429 [main] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:11:02.528 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:02.580 [main] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:11:03.083 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:07.172 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:14.580 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:14.864 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:11:14.897 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:15.569 [main] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:11:15.882 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:15.929 [main] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:11:16.030 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:16.058 [main] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:11:16.485 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:18.640 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:21.669 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:21.926 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:11:21.942 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:22.487 [main] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:11:22.785 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:22.843 [main] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:11:22.943 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:22.970 [main] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:11:23.372 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:26.165 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:29.581 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:29.870 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:11:29.896 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:30.449 [main] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:11:30.794 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:30.846 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:30.946 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:30.971 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:31.395 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:33.613 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:36.536 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:36.775 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:11:36.785 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:37.308 [main] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:11:37.640 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:37.684 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:37.778 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:37.808 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:38.258 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:40.631 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:43.679 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:43.912 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:11:43.921 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:44.467 [main] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:11:44.802 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:44.847 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:44.948 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:44.974 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:45.406 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:47.623 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:11:50.991 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:11:51.313 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:11:51.326 [main] Arraysteps - error message
+[INFO ] 2024-07-29 00:11:51.837 [main] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:11:52.245 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:52.288 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:52.385 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:11:52.416 [main] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:11:52.866 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:11:56.724 [main] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:12:00.494 [main] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:12:00.844 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:12:00.888 [main] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:12:01.228 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:12:01.440 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:12:01.471 [main] Graphsteps - Error message
+[INFO ] 2024-07-29 00:12:02.126 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:12:05.823 [main] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:12:09.488 [main] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:12:09.812 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:12:09.863 [main] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:12:10.184 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:12:10.384 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:12:10.399 [main] Graphsteps - Error message
+[INFO ] 2024-07-29 00:12:10.888 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:12:14.848 [main] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:12:20.281 [main] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:12:22.657 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:12:22.701 [main] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:12:23.196 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:12:25.513 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:12:25.523 [main] Graphsteps - Error message
+[INFO ] 2024-07-29 00:12:27.632 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:12:33.310 [main] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:12:39.543 [main] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:12:42.047 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:12:42.089 [main] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:12:42.452 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:12:44.846 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:12:44.915 [main] Graphsteps - Error message
+[INFO ] 2024-07-29 00:12:45.834 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:12:50.541 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:12:52.815 [main] homepage1 - you are the right place
+[INFO ] 2024-07-29 00:12:55.634 [main] LoggerLoad - user should see different data structure entries in that drop down
+[INFO ] 2024-07-29 00:12:58.074 [main] LoggerLoad - warning1:you are not logged in
+[INFO ] 2024-07-29 00:13:00.458 [main] LoggerLoad - warning2:you are not logged in
+[INFO ] 2024-07-29 00:13:03.396 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:13:05.665 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:13:07.531 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:13:14.681 [main] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:13:15.101 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:13:15.188 [main] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:13:15.740 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:13:16.070 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:13:16.106 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:13:16.636 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:13:18.987 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:13:20.570 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:13:26.414 [main] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:13:26.776 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:13:26.823 [main] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:13:27.152 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:13:27.389 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:13:27.398 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:13:27.865 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:13:30.688 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:13:34.540 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:13:37.549 [main] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:13:37.905 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:13:37.948 [main] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:13:38.592 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:13:38.801 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:13:38.825 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:13:38.826 [main] Queuesteps - collection page
+[INFO ] 2024-07-29 00:13:39.302 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:13:41.741 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:13:45.124 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:13:49.578 [main] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:13:50.009 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:13:50.054 [main] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:13:51.020 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:13:51.235 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:13:51.244 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:13:51.244 [main] Queuesteps - collection page
+[INFO ] 2024-07-29 00:13:51.790 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:13:55.604 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:13:58.560 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:14:02.920 [main] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:14:03.301 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:14:03.343 [main] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:14:03.866 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:14:04.080 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:14:04.099 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:14:04.676 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:14:06.768 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:14:09.755 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:14:13.748 [main] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:14:14.123 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:14:14.166 [main] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:14:14.756 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:14:14.984 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:14:14.993 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:14:15.527 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:14:17.741 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:14:19.313 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:14:20.833 [main] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:14:21.220 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:14:21.263 [main] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:14:21.715 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:14:21.961 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:14:21.972 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:14:21.972 [main] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:14:22.656 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:14:25.139 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:14:26.719 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:14:28.343 [main] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:14:28.842 [main] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:14:28.895 [main] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:14:29.284 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:14:29.482 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:14:29.490 [main] Queuesteps - Error message
+[INFO ] 2024-07-29 00:14:29.491 [main] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:14:30.028 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:14:32.252 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:14:33.709 [main] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:14:34.759 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:14:36.761 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:14:44.330 [main] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:14:45.149 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:14:45.347 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:14:46.212 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:14:48.387 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:14:56.093 [main] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:14:56.817 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:14:57.162 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:14:58.385 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:15:00.485 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:15:08.272 [main] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:15:09.042 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:15:09.299 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:15:10.413 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:15:12.607 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:15:20.560 [main] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:15:21.442 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:15:21.945 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:15:24.669 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:15:26.866 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:15:34.458 [main] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:15:35.278 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:15:35.525 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:15:36.637 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:15:38.798 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:15:46.788 [main] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:15:47.644 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:15:48.011 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:15:49.178 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:15:51.158 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:15:56.714 [main] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:15:57.425 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:15:57.614 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:15:58.357 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:16:00.636 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:16:06.088 [main] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:16:06.898 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:16:07.093 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:16:07.784 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:16:09.952 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:16:17.507 [main] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:16:18.194 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:16:18.410 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:16:19.091 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:16:21.317 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:16:28.933 [main] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:16:29.652 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:16:29.861 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:16:32.199 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:16:34.425 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:16:41.988 [main] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:16:42.676 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:16:42.906 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:16:45.258 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:16:47.456 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:16:54.848 [main] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:16:55.622 [main] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:16:55.833 [main] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:16:58.316 [main] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:17:00.768 [main] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:33:57.433 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:00.847 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:34:02.263 [TestNG-test=Chrome-1] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:34:08.011 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:34:08.231 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:34:08.241 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:34:08.860 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:34:09.171 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:34:09.212 [TestNG-test=Chrome-1] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:34:09.897 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:11.803 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:34:13.293 [TestNG-test=Chrome-1] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:34:18.357 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:34:18.642 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:34:18.714 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:34:19.263 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:34:19.617 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:34:19.664 [TestNG-test=Chrome-1] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:34:20.180 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:22.399 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:34:27.922 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:34:28.204 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:34:28.237 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:34:28.761 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[5,3,4]
+print(x)
+[INFO ] 2024-07-29 00:34:29.072 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:34:29.120 [TestNG-test=Chrome-1] LoggerLoad - [5, 3, 4]
+[INFO ] 2024-07-29 00:34:29.603 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:31.823 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:34:36.847 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:34:37.272 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:34:37.292 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:34:37.758 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[5,3,4]
+print(x)
+[INFO ] 2024-07-29 00:34:38.197 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:34:38.254 [TestNG-test=Chrome-1] LoggerLoad - [5, 3, 4]
+[INFO ] 2024-07-29 00:34:38.840 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:41.062 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:34:46.077 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:34:46.467 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:34:46.520 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:34:47.001 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8,9]
+print(x)
+[INFO ] 2024-07-29 00:34:47.383 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:34:47.441 [TestNG-test=Chrome-1] LoggerLoad - [6, 7, 8, 9]
+[INFO ] 2024-07-29 00:34:47.945 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:50.150 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:34:55.360 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:34:55.823 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:34:55.925 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:34:56.417 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8,9]
+print(x)
+[INFO ] 2024-07-29 00:34:56.755 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:34:56.802 [TestNG-test=Chrome-1] LoggerLoad - [6, 7, 8, 9]
+[INFO ] 2024-07-29 00:34:57.326 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:34:59.346 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:04.407 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:04.799 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:35:04.882 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:05.296 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:35:05.707 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:05.752 [TestNG-test=Chrome-1] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:35:06.173 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:08.372 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:13.137 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:13.454 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:35:13.515 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:14.014 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:35:14.414 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:14.465 [TestNG-test=Chrome-1] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:35:15.065 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:17.332 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:20.114 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:20.394 [TestNG-test=Chrome-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:35:20.404 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:21.054 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:35:21.336 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:21.401 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:35:21.490 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:21.519 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:35:21.929 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:24.120 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:27.449 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:27.719 [TestNG-test=Chrome-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:35:27.729 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:28.325 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:35:28.619 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:28.669 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:35:28.764 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:28.795 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:35:29.286 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:31.575 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:34.823 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:35.099 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:35:35.131 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:35.667 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:35:36.011 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:36.062 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:35:36.178 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:36.206 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:35:36.653 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:38.733 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:41.749 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:41.984 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:35:42.042 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:42.569 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:35:42.926 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:42.970 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:35:43.073 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:43.101 [TestNG-test=Chrome-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:35:43.582 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:46.511 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:49.817 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:50.103 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:35:50.136 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:50.738 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:35:51.157 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:51.205 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:35:51.304 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:51.333 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:35:51.777 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:35:53.885 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:35:56.909 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:35:57.143 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:35:57.153 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:35:57.699 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:35:58.059 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:58.103 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:35:58.198 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:35:58.228 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:35:58.769 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:36:01.060 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:36:04.171 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:36:04.399 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:36:04.411 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:36:04.925 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:36:05.346 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:05.396 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:36:05.501 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:05.530 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:36:06.022 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:36:08.265 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:36:11.317 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:36:11.544 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:36:11.558 [TestNG-test=Chrome-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:36:12.112 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:36:12.469 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:12.513 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:36:12.620 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:12.645 [TestNG-test=Chrome-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:36:13.141 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:36:16.676 [TestNG-test=Chrome-1] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:36:20.322 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:36:20.742 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:20.796 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:36:21.133 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:36:21.352 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:36:21.366 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:36:21.896 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:36:25.597 [TestNG-test=Chrome-1] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:36:29.737 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:36:30.090 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:30.137 [TestNG-test=Chrome-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:36:30.450 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:36:30.663 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:36:30.705 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:36:31.251 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:36:34.970 [TestNG-test=Chrome-1] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:36:40.338 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:36:42.804 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:42.890 [TestNG-test=Chrome-1] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:36:43.280 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:36:45.638 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:36:45.656 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:36:46.208 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:36:50.122 [TestNG-test=Chrome-1] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:36:55.513 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:36:57.962 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:36:58.027 [TestNG-test=Chrome-1] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:36:58.396 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:37:00.655 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:37:00.674 [TestNG-test=Chrome-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:37:02.681 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:06.860 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:09.047 [TestNG-test=Chrome-1] homepage1 - you are the right place
+[INFO ] 2024-07-29 00:37:11.809 [TestNG-test=Chrome-1] LoggerLoad - user should see different data structure entries in that drop down
+[INFO ] 2024-07-29 00:37:14.188 [TestNG-test=Chrome-1] LoggerLoad - warning1:you are not logged in
+[INFO ] 2024-07-29 00:37:16.574 [TestNG-test=Chrome-1] LoggerLoad - warning2:you are not logged in
+[INFO ] 2024-07-29 00:37:19.456 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:21.777 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:37:23.329 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:37:29.189 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:37:29.505 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:37:29.548 [TestNG-test=Chrome-1] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:37:29.905 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:37:30.119 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:37:30.130 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:37:30.611 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:32.883 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:37:34.546 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:37:41.230 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:37:41.655 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:37:41.735 [TestNG-test=Chrome-1] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:37:42.257 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:37:42.654 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:37:42.689 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:37:43.746 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:45.991 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:37:47.465 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:37:48.799 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:37:49.205 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:37:49.247 [TestNG-test=Chrome-1] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:37:49.557 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:37:49.762 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:37:49.772 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:37:49.773 [TestNG-test=Chrome-1] Queuesteps - collection page
+[INFO ] 2024-07-29 00:37:50.247 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:52.180 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:37:53.727 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:37:54.940 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:37:55.288 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:37:55.331 [TestNG-test=Chrome-1] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:37:55.660 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:37:55.885 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:37:55.894 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:37:55.896 [TestNG-test=Chrome-1] Queuesteps - collection page
+[INFO ] 2024-07-29 00:37:56.568 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:37:58.697 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:00.359 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:38:04.089 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:38:04.436 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:38:04.479 [TestNG-test=Chrome-1] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:38:04.766 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:38:04.957 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:38:04.965 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:38:05.470 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:07.485 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:09.311 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:38:12.658 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:38:12.998 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:38:13.041 [TestNG-test=Chrome-1] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:38:13.384 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:38:13.617 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:38:13.628 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:38:14.331 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:16.430 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:17.879 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:38:19.463 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:38:19.917 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:38:19.965 [TestNG-test=Chrome-1] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:38:20.427 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:38:20.642 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:38:20.655 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:38:20.656 [TestNG-test=Chrome-1] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:38:21.388 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:24.147 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:25.713 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:38:27.281 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:38:27.718 [TestNG-test=Chrome-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:38:27.762 [TestNG-test=Chrome-1] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:38:28.057 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:38:28.297 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:38:28.303 [TestNG-test=Chrome-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:38:28.303 [TestNG-test=Chrome-1] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:38:28.896 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:31.164 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:32.698 [TestNG-test=Chrome-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:38:33.654 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:35.823 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:43.878 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:38:44.658 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:38:45.003 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:38:46.003 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:48.068 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:38:55.382 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:38:56.199 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:38:56.426 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:38:57.081 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:38:59.173 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:39:06.643 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:39:07.447 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:39:07.650 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:39:08.359 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:39:10.485 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:39:18.165 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:39:18.884 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:39:19.089 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:39:21.377 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:39:23.521 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:39:31.071 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:39:31.787 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:39:32.017 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:39:34.490 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:39:36.687 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:39:44.804 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:39:45.655 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:39:46.184 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:39:47.275 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:39:49.309 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:39:55.047 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:39:55.810 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:39:56.012 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:39:56.777 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:39:58.793 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:40:04.556 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:40:05.484 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:40:05.692 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:40:06.371 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:40:08.735 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:40:16.247 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:40:16.911 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:40:17.114 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:40:19.479 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:40:21.711 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:40:29.153 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:40:29.888 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:40:30.135 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:40:32.626 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:40:34.778 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:40:42.430 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:40:43.100 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:40:43.309 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:40:44.048 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:40:46.686 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:40:54.202 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:40:54.994 [TestNG-test=Chrome-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:40:55.382 [TestNG-test=Chrome-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:40:56.601 [TestNG-test=Chrome-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:40:58.860 [TestNG-test=Chrome-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:04.104 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:41:06.683 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:08.402 [TestNG-test=edge-1] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:41:13.151 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:41:13.514 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:41:13.532 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:41:13.897 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:41:14.270 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:41:14.317 [TestNG-test=edge-1] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:41:14.730 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:41:16.722 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:18.492 [TestNG-test=edge-1] Arraysteps - user in DSAlgo indroduction page
+[INFO ] 2024-07-29 00:41:23.755 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:41:24.016 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:41:24.025 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:41:24.402 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=('i', [10,20,30,40,50])
+print(x)
+[INFO ] 2024-07-29 00:41:24.787 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:41:24.844 [TestNG-test=edge-1] LoggerLoad - ('i', [10, 20, 30, 40, 50])
+[INFO ] 2024-07-29 00:41:25.279 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:41:27.294 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:32.076 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:41:32.432 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:41:32.474 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:41:32.855 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[5,3,4]
+print(x)
+[INFO ] 2024-07-29 00:41:33.169 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:41:33.216 [TestNG-test=edge-1] LoggerLoad - [5, 3, 4]
+[INFO ] 2024-07-29 00:41:33.718 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:41:36.416 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:41.895 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:41:42.186 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:41:42.197 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:41:42.628 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[5,3,4]
+print(x)
+[INFO ] 2024-07-29 00:41:42.945 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:41:42.991 [TestNG-test=edge-1] LoggerLoad - [5, 3, 4]
+[INFO ] 2024-07-29 00:41:43.550 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:41:45.666 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:50.669 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:41:51.009 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:41:51.072 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:41:51.431 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8,9]
+print(x)
+[INFO ] 2024-07-29 00:41:51.710 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:41:51.752 [TestNG-test=edge-1] LoggerLoad - [6, 7, 8, 9]
+[INFO ] 2024-07-29 00:41:52.181 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:41:54.429 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:41:59.214 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:41:59.584 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:41:59.644 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:00.071 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8,9]
+print(x)
+[INFO ] 2024-07-29 00:42:00.381 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:00.422 [TestNG-test=edge-1] LoggerLoad - [6, 7, 8, 9]
+[INFO ] 2024-07-29 00:42:00.855 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:02.929 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:07.475 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:07.722 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:42:07.733 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:08.065 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:42:08.359 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:08.402 [TestNG-test=edge-1] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:42:08.853 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:10.843 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:15.659 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:15.953 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:42:16.000 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:16.435 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[30,40,60,70]
+print(x)
+[INFO ] 2024-07-29 00:42:16.769 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:16.820 [TestNG-test=edge-1] LoggerLoad - [30, 40, 60, 70]
+[INFO ] 2024-07-29 00:42:17.287 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:19.434 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:22.033 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:22.314 [TestNG-test=edge-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:42:22.322 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:22.862 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:42:23.191 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:23.233 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:42:23.325 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:23.353 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:42:23.899 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:26.357 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:29.256 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:29.560 [TestNG-test=edge-1] LoggerLoad - SyntaxError: bad input on line 1
+[INFO ] 2024-07-29 00:42:29.569 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:30.197 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:42:30.495 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:30.537 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:42:30.634 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:30.662 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:42:31.126 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:33.332 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:36.645 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:36.900 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:42:36.939 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:37.500 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:42:37.804 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:37.848 [TestNG-test=edge-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:42:37.939 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:37.966 [TestNG-test=edge-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:42:38.374 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:40.643 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:43.933 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:44.151 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:42:44.160 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:44.694 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " nums=[1,1,0,1,1]
+print(nums)
+[INFO ] 2024-07-29 00:42:44.996 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:45.038 [TestNG-test=edge-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:42:45.130 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:45.156 [TestNG-test=edge-1] LoggerLoad - [1, 1, 0, 1, 1]
+[INFO ] 2024-07-29 00:42:45.633 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:47.733 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:50.651 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:50.873 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:42:50.883 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:51.381 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:42:51.736 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:51.785 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:42:51.877 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:51.901 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:42:52.324 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:42:54.528 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:42:57.772 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:42:58.190 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:42:58.196 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:42:58.751 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:42:59.189 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:59.233 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:42:59.325 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:42:59.351 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:42:59.780 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:43:02.123 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:43:05.375 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:43:05.607 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:43:05.619 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:43:06.189 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:43:06.525 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:06.569 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:43:06.660 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:06.687 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:43:07.130 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:43:09.383 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:43:12.336 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:43:12.559 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:43:12.568 [TestNG-test=edge-1] Arraysteps - error message
+[INFO ] 2024-07-29 00:43:13.091 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " nums=[12,345,2,6,7896]
+print(nums)
+[INFO ] 2024-07-29 00:43:13.434 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:13.478 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:43:13.572 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:13.600 [TestNG-test=edge-1] LoggerLoad - [12, 345, 2, 6, 7896]
+[INFO ] 2024-07-29 00:43:14.021 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:43:17.618 [TestNG-test=edge-1] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:43:21.216 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:43:21.567 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:21.616 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:43:21.979 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:43:22.176 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:43:22.181 [TestNG-test=edge-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:43:22.630 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:43:26.213 [TestNG-test=edge-1] Graphsteps - user is an graph page
+[INFO ] 2024-07-29 00:43:29.958 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[2,3,4]
+print(x)
+[INFO ] 2024-07-29 00:43:30.291 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:30.334 [TestNG-test=edge-1] LoggerLoad - [2, 3, 4]
+[INFO ] 2024-07-29 00:43:30.618 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:43:30.835 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:43:30.849 [TestNG-test=edge-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:43:31.471 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:43:35.240 [TestNG-test=edge-1] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:43:40.504 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:43:42.872 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:42.912 [TestNG-test=edge-1] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:43:43.208 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:43:45.464 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:43:45.472 [TestNG-test=edge-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:43:46.020 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:43:49.807 [TestNG-test=edge-1] Graphsteps - user is an graph reperesentaion page
+[INFO ] 2024-07-29 00:43:55.178 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " g=[4,5,6]
+print(g)
+[INFO ] 2024-07-29 00:43:57.616 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:43:57.682 [TestNG-test=edge-1] LoggerLoad - [4, 5, 6]
+[INFO ] 2024-07-29 00:43:58.176 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:44:00.428 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:44:00.442 [TestNG-test=edge-1] Graphsteps - Error message
+[INFO ] 2024-07-29 00:44:01.050 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:05.156 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:07.244 [TestNG-test=edge-1] homepage1 - you are the right place
+[INFO ] 2024-07-29 00:44:10.050 [TestNG-test=edge-1] LoggerLoad - user should see different data structure entries in that drop down
+[INFO ] 2024-07-29 00:44:12.428 [TestNG-test=edge-1] LoggerLoad - warning1:you are not logged in
+[INFO ] 2024-07-29 00:44:14.816 [TestNG-test=edge-1] LoggerLoad - warning2:you are not logged in
+[INFO ] 2024-07-29 00:44:17.838 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:19.799 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:44:22.259 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:44:28.032 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:44:28.361 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:44:28.402 [TestNG-test=edge-1] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:44:28.886 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:44:29.236 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:44:29.279 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:44:30.106 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:32.229 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:44:33.790 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:44:40.061 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[6,7,8]
+print(x)
+[INFO ] 2024-07-29 00:44:40.422 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:44:40.465 [TestNG-test=edge-1] LoggerLoad - [6, 7, 8]
+[INFO ] 2024-07-29 00:44:40.838 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:44:41.083 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:44:41.137 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:44:43.190 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:45.254 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:44:46.658 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:44:47.842 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:44:48.193 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:44:48.235 [TestNG-test=edge-1] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:44:48.507 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:44:48.699 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:44:48.707 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:44:48.707 [TestNG-test=edge-1] Queuesteps - collection page
+[INFO ] 2024-07-29 00:44:49.161 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:51.302 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:44:52.832 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:44:53.990 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " imp=[34,56,9]
+print(imp)
+[INFO ] 2024-07-29 00:44:54.394 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:44:54.441 [TestNG-test=edge-1] LoggerLoad - [34, 56, 9]
+[INFO ] 2024-07-29 00:44:54.735 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:44:54.944 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:44:54.953 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:44:54.954 [TestNG-test=edge-1] Queuesteps - collection page
+[INFO ] 2024-07-29 00:44:55.481 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:44:57.508 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:44:59.036 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:45:02.681 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:45:03.100 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:45:03.142 [TestNG-test=edge-1] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:45:03.421 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:45:03.617 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:45:03.625 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:45:04.083 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:06.128 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:45:07.614 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:45:10.912 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " a=[56,67,89]
+print(a)
+[INFO ] 2024-07-29 00:45:11.255 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:45:11.296 [TestNG-test=edge-1] LoggerLoad - [56, 67, 89]
+[INFO ] 2024-07-29 00:45:11.610 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:45:11.832 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:45:11.841 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:45:12.312 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:14.494 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:45:15.922 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:45:17.463 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:45:17.817 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:45:17.860 [TestNG-test=edge-1] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:45:18.146 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:45:18.336 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:45:18.343 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:45:18.344 [TestNG-test=edge-1] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:45:18.770 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:21.012 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:45:22.381 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:45:24.028 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " max=[-1,-2,3,4]
+print(max)
+[INFO ] 2024-07-29 00:45:24.536 [TestNG-test=edge-1] LoggerLoad - User should be able to see console Message
+[INFO ] 2024-07-29 00:45:24.585 [TestNG-test=edge-1] LoggerLoad - [-1, -2, 3, 4]
+[INFO ] 2024-07-29 00:45:24.924 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:45:25.167 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:45:25.176 [TestNG-test=edge-1] Queuesteps - Error message
+[INFO ] 2024-07-29 00:45:25.176 [TestNG-test=edge-1] Queuesteps - user is on queue page
+[INFO ] 2024-07-29 00:45:25.696 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:27.738 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:45:29.294 [TestNG-test=edge-1] Queuesteps - user is on Queue perform page
+[INFO ] 2024-07-29 00:45:30.235 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:32.183 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:45:39.741 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:45:40.525 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:45:40.717 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:45:41.480 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:43.404 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:45:51.553 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " tree=[1,2]
+print(tree)
+[INFO ] 2024-07-29 00:45:52.243 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:45:52.527 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:45:53.529 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:45:55.490 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:46:03.305 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:46:04.218 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:46:04.414 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:46:05.150 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:46:07.405 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:46:14.815 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " pre=[67,89,90]
+print(pre)
+[INFO ] 2024-07-29 00:46:15.487 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:46:15.698 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:46:16.395 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:46:18.637 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:46:26.099 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:46:26.789 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:46:26.998 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:46:29.367 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:46:31.532 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:46:38.959 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " bin=[45,67,89]
+print(bin)
+[INFO ] 2024-07-29 00:46:39.635 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:46:39.837 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:46:40.597 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:46:42.531 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:46:47.884 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:46:48.638 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:46:48.825 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:46:49.725 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:46:51.927 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:46:58.094 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " tree=[89,90,76]
+print(tree)
+[INFO ] 2024-07-29 00:46:58.979 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:46:59.213 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:47:00.444 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:47:02.865 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:47:10.514 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:47:11.284 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:47:11.596 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:47:12.934 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:47:15.080 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:47:22.846 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " n=[8,9,10]
+print(n)
+[INFO ] 2024-07-29 00:47:23.569 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:47:23.951 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:47:25.343 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:47:27.256 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:47:34.904 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:47:35.566 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:47:35.759 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:47:36.407 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:47:38.683 [TestNG-test=edge-1] LoggerLoad - Driver initializing
+[INFO ] 2024-07-29 00:47:46.034 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " x=[15,67,43]
+print(x)
+[INFO ] 2024-07-29 00:47:46.680 [TestNG-test=edge-1] LoggerLoad - User Enter valid Pythoncode is " hello
+[INFO ] 2024-07-29 00:47:46.871 [TestNG-test=edge-1] LoggerLoad - NameError: name 'hello' is not defined on line 1
+[INFO ] 2024-07-29 00:47:47.569 [TestNG-test=edge-1] DriverFactory - Initialize Browser
+[INFO ] 2024-07-29 00:47:49.939 [TestNG-test=edge-1] LoggerLoad - Driver initializing
